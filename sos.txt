@@ -16,7 +16,7 @@
 113
 114
 115
-116/Users/macbook/Downloads/best_saved_model-20250714T073051Z-1-001 (1)/best_saved_model/sos.txt
+116
 117
 119
 120
